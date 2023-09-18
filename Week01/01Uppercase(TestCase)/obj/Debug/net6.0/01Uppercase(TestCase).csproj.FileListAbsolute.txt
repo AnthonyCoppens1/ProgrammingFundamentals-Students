@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\bin\Debug\net6.0\01Uppercase(TestCase).exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\bin\Debug\net6.0\01Uppercase(TestCase).deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\bin\Debug\net6.0\01Uppercase(TestCase).runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\bin\Debug\net6.0\01Uppercase(TestCase).dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\bin\Debug\net6.0\01Uppercase(TestCase).pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\refint\01Uppercase(TestCase).dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\01Uppercase(TestCase).genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week01\01Uppercase(TestCase)\obj\Debug\net6.0\ref\01Uppercase(TestCase).dll
