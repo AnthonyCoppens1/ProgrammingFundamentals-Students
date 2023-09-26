@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\bin\Debug\net6.0\02ValidAge-DSPS1.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\bin\Debug\net6.0\02ValidAge-DSPS1.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\bin\Debug\net6.0\02ValidAge-DSPS1.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\bin\Debug\net6.0\02ValidAge-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\bin\Debug\net6.0\02ValidAge-DSPS1.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\refint\02ValidAge-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\02ValidAge-DSPS1.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02ValidAge-DSPS1\obj\Debug\net6.0\ref\02ValidAge-DSPS1.dll
