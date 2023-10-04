@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\bin\Debug\net6.0\02Char4th-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\bin\Debug\net6.0\02Char4th-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\bin\Debug\net6.0\02Char4th-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\bin\Debug\net6.0\02Char4th-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\bin\Debug\net6.0\02Char4th-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\refint\02Char4th-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\02Char4th-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week02\02Char4th-ADI\obj\Debug\net6.0\ref\02Char4th-ADI.dll
