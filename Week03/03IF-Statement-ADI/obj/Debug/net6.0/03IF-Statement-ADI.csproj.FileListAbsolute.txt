@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\bin\Debug\net6.0\03IF-Statement-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\bin\Debug\net6.0\03IF-Statement-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\bin\Debug\net6.0\03IF-Statement-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\bin\Debug\net6.0\03IF-Statement-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\bin\Debug\net6.0\03IF-Statement-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\refint\03IF-Statement-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\03IF-Statement-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03IF-Statement-ADI\obj\Debug\net6.0\ref\03IF-Statement-ADI.dll

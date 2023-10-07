@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\bin\Debug\net6.0\03WerknemerScore.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\bin\Debug\net6.0\03WerknemerScore.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\bin\Debug\net6.0\03WerknemerScore.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\bin\Debug\net6.0\03WerknemerScore.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\bin\Debug\net6.0\03WerknemerScore.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\refint\03WerknemerScore.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\03WerknemerScore.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03WerknemerScore\obj\Debug\net6.0\ref\03WerknemerScore.dll
