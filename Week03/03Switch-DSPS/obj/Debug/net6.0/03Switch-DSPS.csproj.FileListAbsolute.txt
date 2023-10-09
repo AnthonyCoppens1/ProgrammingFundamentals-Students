@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\bin\Debug\net6.0\03Switch-DSPS.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\bin\Debug\net6.0\03Switch-DSPS.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\bin\Debug\net6.0\03Switch-DSPS.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\bin\Debug\net6.0\03Switch-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\bin\Debug\net6.0\03Switch-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\refint\03Switch-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\03Switch-DSPS.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03Switch-DSPS\obj\Debug\net6.0\ref\03Switch-DSPS.dll

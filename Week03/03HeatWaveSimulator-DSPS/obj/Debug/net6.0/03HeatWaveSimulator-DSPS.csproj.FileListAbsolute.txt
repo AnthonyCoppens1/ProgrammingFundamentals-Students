@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\bin\Debug\net6.0\03HeatWaveSimulator-DSPS.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\bin\Debug\net6.0\03HeatWaveSimulator-DSPS.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\bin\Debug\net6.0\03HeatWaveSimulator-DSPS.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\bin\Debug\net6.0\03HeatWaveSimulator-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\bin\Debug\net6.0\03HeatWaveSimulator-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\refint\03HeatWaveSimulator-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\03HeatWaveSimulator-DSPS.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week03\03HeatWaveSimulator-DSPS\obj\Debug\net6.0\ref\03HeatWaveSimulator-DSPS.dll

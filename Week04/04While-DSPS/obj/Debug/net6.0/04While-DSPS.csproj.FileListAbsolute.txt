@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\bin\Debug\net6.0\04While-DSPS.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\bin\Debug\net6.0\04While-DSPS.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\bin\Debug\net6.0\04While-DSPS.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\bin\Debug\net6.0\04While-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\bin\Debug\net6.0\04While-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\refint\04While-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\04While-DSPS.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04While-DSPS\obj\Debug\net6.0\ref\04While-DSPS.dll

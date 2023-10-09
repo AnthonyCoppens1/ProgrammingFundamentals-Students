@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\bin\Debug\net6.0\04For-loops-DSPS.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\bin\Debug\net6.0\04For-loops-DSPS.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\bin\Debug\net6.0\04For-loops-DSPS.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\bin\Debug\net6.0\04For-loops-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\bin\Debug\net6.0\04For-loops-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\refint\04For-loops-DSPS.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\04For-loops-DSPS.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-DSPS\obj\Debug\net6.0\ref\04For-loops-DSPS.dll

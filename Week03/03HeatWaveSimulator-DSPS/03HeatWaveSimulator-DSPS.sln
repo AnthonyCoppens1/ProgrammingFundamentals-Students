@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03HeatWaveSimulator-DSPS", "03HeatWaveSimulator-DSPS.csproj", "{938FBF05-9D0C-4C25-B6D6-485A33A1161E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938FBF05-9D0C-4C25-B6D6-485A33A1161E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938FBF05-9D0C-4C25-B6D6-485A33A1161E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938FBF05-9D0C-4C25-B6D6-485A33A1161E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938FBF05-9D0C-4C25-B6D6-485A33A1161E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27DF226A-5163-40BE-9D6E-D6C08B7B5EC4}
+	EndGlobalSection
+EndGlobal
