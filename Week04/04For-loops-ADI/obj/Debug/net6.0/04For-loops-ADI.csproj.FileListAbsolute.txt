@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\bin\Debug\net6.0\04For-loops-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\bin\Debug\net6.0\04For-loops-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\bin\Debug\net6.0\04For-loops-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\bin\Debug\net6.0\04For-loops-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\bin\Debug\net6.0\04For-loops-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\refint\04For-loops-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\04For-loops-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week04\04For-loops-ADI\obj\Debug\net6.0\ref\04For-loops-ADI.dll
