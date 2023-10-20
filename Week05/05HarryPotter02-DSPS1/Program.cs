@@ -28,6 +28,9 @@ namespace _05HarryPotter02_DSPS1
             StreamWriter sr = File.CreateText($"harry-{lines}.txt");
             //create new file with specified lines
 
+            /*checks original file line by line. If count (starting at 0) exceeds given lines
+             * it stop copying the lines from original to new file. The else break; makes sure it breaks
+             * the foreach --> so it doesn't loop through all of the other lines still in the original file */
 
             foreach (string line in File.ReadLines(@"Harry Potter and the Sorcerer.txt"))
             {

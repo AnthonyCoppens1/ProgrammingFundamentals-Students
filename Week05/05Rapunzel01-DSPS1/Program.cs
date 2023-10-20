@@ -96,7 +96,7 @@ namespace _05Rapunzel01_DSPS1
             }
             Console.WriteLine($"# words: {countWord}");
 
-
+            
             //count WORDS!
             //while
             countWord = 0;
@@ -104,7 +104,7 @@ namespace _05Rapunzel01_DSPS1
             while (!sr.EndOfStream) //read through text char by char
             {
                 char c = (char)sr.Read(); //read through it
-                if ("azertyuiopmlkjhgfdsqwxcvbn".Contains(Char.ToLower(c)))
+                if (!"azertyuiopmlkjhgfdsqwxcvbn".Contains(Char.ToLower(c)))
                 {
                     if (c != '\'') //we use the \ to escape the sequence and can then use the following character to check --> \' checks for ' --> \" --> "
                     {
@@ -117,6 +117,10 @@ namespace _05Rapunzel01_DSPS1
 
 
             //count word Rapunzel
+            //foreach saves char by char of whole file --> if char is within
+            //alphabet, add it to word! if it's anything different than a letter from alphabet
+            //check if the word is rapunzel, add 1 to counter and reset word.
+
 
             string word = "";
             int countRapunzel = 0;
@@ -159,7 +163,7 @@ namespace _05Rapunzel01_DSPS1
             Console.WriteLine(regex.Replace(text,"Anthony"));
 
 
-
+            
         }
     }
 }

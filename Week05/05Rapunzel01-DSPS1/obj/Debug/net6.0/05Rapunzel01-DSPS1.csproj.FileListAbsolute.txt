@@ -13,3 +13,4 @@ C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamenta
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Rapunzel01-DSPS1\obj\Debug\net6.0\05Rapunzel01-DSPS1.pdb
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Rapunzel01-DSPS1\obj\Debug\net6.0\05Rapunzel01-DSPS1.genruntimeconfig.cache
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Rapunzel01-DSPS1\obj\Debug\net6.0\ref\05Rapunzel01-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Rapunzel01-DSPS1\bin\Debug\net6.0\Rapunzel.txt

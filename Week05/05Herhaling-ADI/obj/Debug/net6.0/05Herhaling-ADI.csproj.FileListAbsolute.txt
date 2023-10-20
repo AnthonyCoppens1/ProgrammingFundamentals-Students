@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\bin\Debug\net6.0\05Herhaling-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\bin\Debug\net6.0\05Herhaling-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\bin\Debug\net6.0\05Herhaling-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\bin\Debug\net6.0\05Herhaling-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\bin\Debug\net6.0\05Herhaling-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\refint\05Herhaling-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\05Herhaling-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week05\05Herhaling-ADI\obj\Debug\net6.0\ref\05Herhaling-ADI.dll

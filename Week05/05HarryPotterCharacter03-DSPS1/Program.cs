@@ -14,13 +14,14 @@ namespace _05HarryPotterCharacter03_DSPS1
                 if (item.Contains("Gryffindor"))
                 {
                     int first = item.IndexOf(';'); //find the index of first ; to determine where first field ends and second field starts
-                    //extract a substring
+                    //extract a substring of the line starting from char after first ; --> just 'first' would mean you look at ;
                     string substring = item.Substring(first + 1);
                     int second = substring.IndexOf(';'); // find index of the second ; INSIDE OF SUBSTRING
-                    Console.WriteLine(substring.Substring(0, second));
+                    Console.WriteLine(substring.Substring(0, second)); 
+                    //print substring that starts from the beginning of substring and ends just before second ;
                 }
             }
-
+            
 
 
             Regex rx = new Regex(@"[0-9]{4}");
