@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06Soccer-DSPS2", "06Soccer-DSPS2.csproj", "{00A8AF05-BD96-4A2B-8303-F2AC01746907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A8AF05-BD96-4A2B-8303-F2AC01746907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A8AF05-BD96-4A2B-8303-F2AC01746907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A8AF05-BD96-4A2B-8303-F2AC01746907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A8AF05-BD96-4A2B-8303-F2AC01746907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A89F1B8-8CAA-4361-B821-F7C6764B8EF0}
+	EndGlobalSection
+EndGlobal
