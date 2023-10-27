@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\bin\Debug\net6.0\06Rapport-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\bin\Debug\net6.0\06Rapport-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\bin\Debug\net6.0\06Rapport-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\bin\Debug\net6.0\06Rapport-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\bin\Debug\net6.0\06Rapport-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\refint\06Rapport-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\06Rapport-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Rapport-ADI\obj\Debug\net6.0\ref\06Rapport-ADI.dll

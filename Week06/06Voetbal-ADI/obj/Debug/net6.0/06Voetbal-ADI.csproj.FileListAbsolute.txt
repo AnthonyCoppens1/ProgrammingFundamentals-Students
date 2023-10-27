@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\bin\Debug\net6.0\06Voetbal-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\bin\Debug\net6.0\06Voetbal-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\bin\Debug\net6.0\06Voetbal-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\bin\Debug\net6.0\06Voetbal-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\bin\Debug\net6.0\06Voetbal-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\refint\06Voetbal-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\06Voetbal-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Voetbal-ADI\obj\Debug\net6.0\ref\06Voetbal-ADI.dll
