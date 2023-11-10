@@ -3,7 +3,6 @@ C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamenta
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\bin\Debug\net6.0\06Soccer-DSPS1.runtimeconfig.json
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\bin\Debug\net6.0\06Soccer-DSPS1.dll
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\bin\Debug\net6.0\06Soccer-DSPS1.pdb
-C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\obj\Debug\net6.0\06Soccer-DSPS1.csproj.AssemblyReference.cache
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\obj\Debug\net6.0\06Soccer-DSPS1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\obj\Debug\net6.0\06Soccer-DSPS1.AssemblyInfoInputs.cache
 C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week06\06Soccer-DSPS1\obj\Debug\net6.0\06Soccer-DSPS1.AssemblyInfo.cs

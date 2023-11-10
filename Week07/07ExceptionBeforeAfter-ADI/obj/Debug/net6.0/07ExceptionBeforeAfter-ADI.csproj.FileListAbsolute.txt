@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\donkey.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\english.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\07ExceptionBeforeAfter-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\07ExceptionBeforeAfter-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\07ExceptionBeforeAfter-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\07ExceptionBeforeAfter-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\bin\Debug\net6.0\07ExceptionBeforeAfter-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\refint\07ExceptionBeforeAfter-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\07ExceptionBeforeAfter-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter-ADI\obj\Debug\net6.0\ref\07ExceptionBeforeAfter-ADI.dll

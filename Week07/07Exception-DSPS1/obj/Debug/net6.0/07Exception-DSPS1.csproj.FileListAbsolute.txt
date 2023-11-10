@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\donkey.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\english.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\07Exception-DSPS1.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\07Exception-DSPS1.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\07Exception-DSPS1.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\07Exception-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\bin\Debug\net6.0\07Exception-DSPS1.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\refint\07Exception-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\07Exception-DSPS1.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07Exception-DSPS1\obj\Debug\net6.0\ref\07Exception-DSPS1.dll

@@ -1,0 +1,16 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\donkey.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\english.txt
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\07ExceptionBeforeAfter.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\07ExceptionBeforeAfter.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\07ExceptionBeforeAfter.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\07ExceptionBeforeAfter.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\bin\Debug\net6.0\07ExceptionBeforeAfter.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\refint\07ExceptionBeforeAfter.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\07ExceptionBeforeAfter.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week07\07ExceptionBeforeAfter\obj\Debug\net6.0\ref\07ExceptionBeforeAfter.dll
