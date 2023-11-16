@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\bin\Debug\net6.0\BigOrSmallPond-DSPS2.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\bin\Debug\net6.0\BigOrSmallPond-DSPS2.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\bin\Debug\net6.0\BigOrSmallPond-DSPS2.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\bin\Debug\net6.0\BigOrSmallPond-DSPS2.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\bin\Debug\net6.0\BigOrSmallPond-DSPS2.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\refint\BigOrSmallPond-DSPS2.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\BigOrSmallPond-DSPS2.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\BigOrSmallPond-DSPS2\obj\Debug\net6.0\ref\BigOrSmallPond-DSPS2.dll

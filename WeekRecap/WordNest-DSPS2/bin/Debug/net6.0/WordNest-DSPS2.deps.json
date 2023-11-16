@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WordNest-DSPS2/1.0.0": {
+        "runtime": {
+          "WordNest-DSPS2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordNest-DSPS2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

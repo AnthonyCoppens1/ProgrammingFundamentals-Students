@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixAndMatch-DSPS1", "MixAndMatch-DSPS1.csproj", "{ACF7A17F-072F-4577-BFF3-0443808C8D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF7A17F-072F-4577-BFF3-0443808C8D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF7A17F-072F-4577-BFF3-0443808C8D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF7A17F-072F-4577-BFF3-0443808C8D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF7A17F-072F-4577-BFF3-0443808C8D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F74C331-5BA8-4366-9477-388FD72E6B7D}
+	EndGlobalSection
+EndGlobal
