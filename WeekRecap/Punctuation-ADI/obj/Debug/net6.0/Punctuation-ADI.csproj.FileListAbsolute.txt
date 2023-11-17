@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\bin\Debug\net6.0\Punctuation-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\bin\Debug\net6.0\Punctuation-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\bin\Debug\net6.0\Punctuation-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\bin\Debug\net6.0\Punctuation-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\bin\Debug\net6.0\Punctuation-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\refint\Punctuation-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\Punctuation-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\Punctuation-ADI\obj\Debug\net6.0\ref\Punctuation-ADI.dll

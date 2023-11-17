@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\bin\Debug\net6.0\WordNest-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\bin\Debug\net6.0\WordNest-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\bin\Debug\net6.0\WordNest-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\bin\Debug\net6.0\WordNest-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\bin\Debug\net6.0\WordNest-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\refint\WordNest-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\WordNest-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\WeekRecap\WordNest-ADI\obj\Debug\net6.0\ref\WordNest-ADI.dll
