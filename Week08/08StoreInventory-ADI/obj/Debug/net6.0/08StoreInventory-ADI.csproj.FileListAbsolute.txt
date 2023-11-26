@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\bin\Debug\net6.0\08StoreInventory-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\bin\Debug\net6.0\08StoreInventory-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\bin\Debug\net6.0\08StoreInventory-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\bin\Debug\net6.0\08StoreInventory-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\bin\Debug\net6.0\08StoreInventory-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\refint\08StoreInventory-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\08StoreInventory-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StoreInventory-ADI\obj\Debug\net6.0\ref\08StoreInventory-ADI.dll

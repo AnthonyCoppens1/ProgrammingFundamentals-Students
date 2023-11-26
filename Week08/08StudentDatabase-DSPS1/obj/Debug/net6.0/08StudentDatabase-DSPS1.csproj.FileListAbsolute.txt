@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\bin\Debug\net6.0\08StudentDatabase-DSPS1.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\bin\Debug\net6.0\08StudentDatabase-DSPS1.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\bin\Debug\net6.0\08StudentDatabase-DSPS1.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\bin\Debug\net6.0\08StudentDatabase-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\bin\Debug\net6.0\08StudentDatabase-DSPS1.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\refint\08StudentDatabase-DSPS1.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\08StudentDatabase-DSPS1.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-DSPS1\obj\Debug\net6.0\ref\08StudentDatabase-DSPS1.dll

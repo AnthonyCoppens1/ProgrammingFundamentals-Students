@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\bin\Debug\net6.0\08Dictioaries-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\bin\Debug\net6.0\08Dictioaries-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\bin\Debug\net6.0\08Dictioaries-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\bin\Debug\net6.0\08Dictioaries-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\bin\Debug\net6.0\08Dictioaries-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\refint\08Dictioaries-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\08Dictioaries-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08Dictioaries-ADI\obj\Debug\net6.0\ref\08Dictioaries-ADI.dll

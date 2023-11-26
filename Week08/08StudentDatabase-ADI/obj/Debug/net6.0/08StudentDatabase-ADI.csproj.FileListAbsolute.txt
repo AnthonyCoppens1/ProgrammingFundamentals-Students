@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\bin\Debug\net6.0\08StudentDatabase-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\bin\Debug\net6.0\08StudentDatabase-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\bin\Debug\net6.0\08StudentDatabase-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\bin\Debug\net6.0\08StudentDatabase-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\bin\Debug\net6.0\08StudentDatabase-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\refint\08StudentDatabase-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\08StudentDatabase-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week08\08StudentDatabase-ADI\obj\Debug\net6.0\ref\08StudentDatabase-ADI.dll
