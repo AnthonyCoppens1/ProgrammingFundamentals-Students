@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\bin\Debug\net6.0\09MethodenProject-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\bin\Debug\net6.0\09MethodenProject-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\bin\Debug\net6.0\09MethodenProject-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\bin\Debug\net6.0\09MethodenProject-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\bin\Debug\net6.0\09MethodenProject-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\refint\09MethodenProject-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\09MethodenProject-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09MethodenProject-ADI\obj\Debug\net6.0\ref\09MethodenProject-ADI.dll

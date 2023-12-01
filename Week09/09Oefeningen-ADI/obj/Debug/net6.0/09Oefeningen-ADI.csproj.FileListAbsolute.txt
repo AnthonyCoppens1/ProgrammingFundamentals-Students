@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\bin\Debug\net6.0\09Oefeningen-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\bin\Debug\net6.0\09Oefeningen-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\bin\Debug\net6.0\09Oefeningen-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\bin\Debug\net6.0\09Oefeningen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\bin\Debug\net6.0\09Oefeningen-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\refint\09Oefeningen-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\09Oefeningen-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week09\09Oefeningen-ADI\obj\Debug\net6.0\ref\09Oefeningen-ADI.dll
