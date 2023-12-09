@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\bin\Debug\net6.0\10OO-Hospital.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\bin\Debug\net6.0\10OO-Hospital.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\bin\Debug\net6.0\10OO-Hospital.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\bin\Debug\net6.0\10OO-Hospital.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\bin\Debug\net6.0\10OO-Hospital.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\refint\10OO-Hospital.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\10OO-Hospital.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OO-Hospital\obj\Debug\net6.0\ref\10OO-Hospital.dll

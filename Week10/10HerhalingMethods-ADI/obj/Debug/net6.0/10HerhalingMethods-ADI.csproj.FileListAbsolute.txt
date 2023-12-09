@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\bin\Debug\net6.0\10HerhalingMethods-ADI.exe
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\bin\Debug\net6.0\10HerhalingMethods-ADI.deps.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\bin\Debug\net6.0\10HerhalingMethods-ADI.runtimeconfig.json
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\bin\Debug\net6.0\10HerhalingMethods-ADI.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\bin\Debug\net6.0\10HerhalingMethods-ADI.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.AssemblyInfo.cs
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\refint\10HerhalingMethods-ADI.dll
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.pdb
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\10HerhalingMethods-ADI.genruntimeconfig.cache
+C:\Users\Gebruiker\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10HerhalingMethods-ADI\obj\Debug\net6.0\ref\10HerhalingMethods-ADI.dll

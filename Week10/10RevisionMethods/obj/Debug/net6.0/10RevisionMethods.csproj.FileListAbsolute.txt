@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\bin\Debug\net6.0\10RevisionMethods.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\bin\Debug\net6.0\10RevisionMethods.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\bin\Debug\net6.0\10RevisionMethods.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\bin\Debug\net6.0\10RevisionMethods.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\bin\Debug\net6.0\10RevisionMethods.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\refint\10RevisionMethods.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\10RevisionMethods.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10RevisionMethods\obj\Debug\net6.0\ref\10RevisionMethods.dll
