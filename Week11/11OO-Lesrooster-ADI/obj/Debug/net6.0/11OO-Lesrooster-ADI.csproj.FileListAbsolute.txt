@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\bin\Debug\net6.0\11OO-Lesrooster-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\bin\Debug\net6.0\11OO-Lesrooster-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\bin\Debug\net6.0\11OO-Lesrooster-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\bin\Debug\net6.0\11OO-Lesrooster-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\bin\Debug\net6.0\11OO-Lesrooster-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\refint\11OO-Lesrooster-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\11OO-Lesrooster-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week11\11OO-Lesrooster-ADI\obj\Debug\net6.0\ref\11OO-Lesrooster-ADI.dll

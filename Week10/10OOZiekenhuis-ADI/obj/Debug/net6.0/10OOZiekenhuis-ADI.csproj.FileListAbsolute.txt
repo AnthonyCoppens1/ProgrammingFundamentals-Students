@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\bin\Debug\net6.0\10OOZiekenhuis-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\bin\Debug\net6.0\10OOZiekenhuis-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\bin\Debug\net6.0\10OOZiekenhuis-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\bin\Debug\net6.0\10OOZiekenhuis-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\bin\Debug\net6.0\10OOZiekenhuis-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\refint\10OOZiekenhuis-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\10OOZiekenhuis-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\OefeningenC#\ProgrammingFundamentals-Students\Week10\10OOZiekenhuis-ADI\obj\Debug\net6.0\ref\10OOZiekenhuis-ADI.dll

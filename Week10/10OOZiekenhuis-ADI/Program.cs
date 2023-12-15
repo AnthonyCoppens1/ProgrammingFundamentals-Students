@@ -38,6 +38,42 @@ namespace _10OOZiekenhuis_ADI
             Dokter Louis = new Dokter("Louis", new DateOnly(2005, 12, 05), "NKO");
             Patient Anthony = new Patient("Anthony", new DateOnly(1995, 7, 31), "Teacher Syndrome");
             Verpleger Collin = new Verpleger("Collin", new DateOnly(1991, 4, 16), "Pediatrie");
+            Dokter Jenny = new Dokter("Jenny", new DateOnly(1980, 05, 20), "HartenVaatziekten");
+            Patient Elke = new Patient("Elke", new DateOnly(1981, 04, 23), "Teacher Syndrome");
+            Patient Bert = new Patient("Bert", new DateOnly(1991, 4, 12), "Teacher Syndrome");
+            Verpleger Josh = new Verpleger("Josh", new DateOnly(2000, 1, 1), "Geriatrie");
+            Persoon Tom = new Persoon();
+
+            Console.WriteLine(Louis);
+            Console.WriteLine(Anthony);
+            Console.WriteLine(Elke);
+            Console.WriteLine(Bert);
+            Console.WriteLine(Josh);
+            Console.WriteLine(Collin);
+            Console.WriteLine(Jenny);
+
+            List<Persoon> people = new List<Persoon>();
+            people.Add(Anthony);
+            people.Add(Elke);
+            people.Add(Bert);
+            people.Add(Josh);
+            people.Add(Collin);
+            people.Add(Jenny);
+
+            foreach(Persoon p in people)
+            {
+                Console.WriteLine(p);
+            }
+
+            Console.WriteLine();
+            Ziekenhuis Z = new Ziekenhuis("AZ Sint-Maarten", people);
+
+            Dokter Bea = new Dokter("Bea", new DateOnly(1960, 1, 1), "Dermatologie");
+            Z.PersoonToevoegen(Bea);
+            Console.WriteLine(Z);
+
+            Console.WriteLine();           
+            
         }
     }
 }
